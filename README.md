@@ -20,24 +20,24 @@ with a focus on using analytics to support **decision-making, risk assessment, a
 Selected projects demonstrating analytical thinking and business impact:
 
 - **Ray-Ban Meta Smart Glasses — Conjoint Analysis**  
-  ▪️ Customer preference modelling and willingness-to-pay analysis  
-  ▪️ Market segmentation and product tier strategy  
-  ▪️ Business-oriented insights for pricing and feature prioritisation 
+  - Customer preference modelling and willingness-to-pay analysis  
+  - Market segmentation and product tier strategy  
+  - Business-oriented insights for pricing and feature prioritisation 
 
 - **Australia International Trade Analysis (1988–2024)**  
-  ▪️ Interactive Tableau dashboards  
-  ▪️ Export, import, and trade balance trend analysis  
-  ▪️ Category vs sub-category performance insights 
+  - Interactive Tableau dashboards  
+  - Export, import, and trade balance trend analysis  
+  - Category vs sub-category performance insights 
 
 - **Used Cars Market — Regression Analysis**  
-  ▪️ Price prediction using key vehicle attributes  
-  ▪️ Clear justification of variables and assumptions  
-  ▪️ Business rules for identifying undervalued assets 
+  - Price prediction using key vehicle attributes  
+  - Clear justification of variables and assumptions  
+  - Business rules for identifying undervalued assets 
 
 - **House Price Prediction — Machine Learning Analysis**  
-  ▪️ Project proposal defining objectives, assumptions, and analytical scope  
-  ▪️ End-to-end ML modelling with clear documentation of coding results  
-  ▪️ Interpretation of model outputs for pricing and market insight
+  - Project proposal defining objectives, assumptions, and analytical scope  
+  - End-to-end ML modelling with clear documentation of coding results  
+  - Interpretation of model outputs for pricing and market insight
 ---
 
 ## ▸ Technical Skills
