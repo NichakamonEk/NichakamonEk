@@ -2,7 +2,7 @@
 
 🎓 Master of Business Analytics — University of Technology Sydney (UTS)  
 💼 Former Audit Assistant Manager — KPMG  
-📊 Background: Audit → Data Analytics → Business & Consulting  
+📊 Background: Audit → Data Analytics 
 
 I have strong experience in **financial audit, data analysis, and business problem-solving**,  
 with a focus on using analytics to support **decision-making, risk assessment, and strategic insights**.
