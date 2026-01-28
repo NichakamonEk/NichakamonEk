@@ -59,6 +59,3 @@ Selected projects demonstrating analytical thinking and business impact:
 ## ▸ Contact
 - GitHub: https://github.com/NichakamonEk  
 - LinkedIn:
-
-I am open to opportunities in **Audit and Business Consulting**,  
-particularly roles that value **data-driven insights, structured thinking, and professional judgement**.
