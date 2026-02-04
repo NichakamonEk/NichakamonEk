@@ -19,6 +19,11 @@ with a focus on using analytics to support **decision-making, risk assessment, a
 ## ▸ Featured Projects
 Selected projects demonstrating analytical thinking and business impact:
 
+- **Financial Analytics — Balanced Scorecard & KPI Design**
+  - Strategy-aligned performance diagnosis using an extended Balanced Scorecard framework
+  - KPI design linking financial results with operational, ESG, and governance drivers
+  - Power BI dashboards supporting executive performance review and decision-making
+
 - **Ray-Ban Meta Smart Glasses — Conjoint Analysis**  
   - Customer preference modelling and willingness-to-pay analysis  
   - Market segmentation and product tier strategy  
