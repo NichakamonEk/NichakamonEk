@@ -4,8 +4,8 @@
 💼 Former Audit Assistant Manager — KPMG  
 📊 Background: Audit → Data Analytics 
 
-I have strong experience in **financial audit, data analysis, and business problem-solving**,  
-with a focus on using analytics to support **decision-making, risk assessment, and strategic insights**.
+My background combines **financial audit, data analysis**, with a focus on using analytics
+to support **decision-making, risk assessment, and business insights**.
 
 ---
 
