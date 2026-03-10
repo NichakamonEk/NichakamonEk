@@ -54,13 +54,13 @@ Selected projects demonstrating analytical thinking and business impact:
 ---
 
 ## ▸ Professional Strengths
-- Strong foundation in audit, financial reasoning, and internal controls 
-- Ability to bridge technical analysis with business context   
-- Structured thinking with strong attention to detail
+- Strong foundation in financial audit, internal controls, and risk assessment 
+- Ability to translate data analysis into business insights   
+- Structured analytical thinking with strong attention to detail
 - Clear communication for both technical and non-technical stakeholders   
 
 ---
 
 ## ▸ Contact
-- GitHub: https://github.com/NichakamonEk  
+Connect with me  
 - LinkedIn: https://www.linkedin.com/in/nichakamon-e-519025212/
