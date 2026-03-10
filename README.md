@@ -10,9 +10,10 @@ to support **decision-making, risk assessment, and business insights**.
 ---
 
 ## ▸ Career Interest
-- Audit (Financial / Risk / Data-Driven Audit)
-- Business Consulting / Advisory
-- Analytics-Driven Strategy & Performance Improvement
+- Financial & Risk Analytics
+- Data-Driven Audit and Assurance
+- Business Analytics & Business Intelligence
+- Consulting & Performance Improvement
 
 ---
 
@@ -46,10 +47,10 @@ Selected projects demonstrating analytical thinking and business impact:
 ---
 
 ## ▸ Technical Skills
-- Analytics & Statistics: Regression, Clustering, Conjoint Analysis, Hypothesis Testing
+- Analytics & Statistics: Regression Analysis, Clustering, Conjoint Analysis, Hypothesis Testing
 - Programming: Python, SQL
 - Visualisation & BI: Tableau, Power BI
-- Business: Audit methodology, risk assessment, KPI design, business storytelling 
+- Business: Financial audit methodology, risk assessment, KPI design, business storytelling 
 
 ---
 
