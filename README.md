@@ -63,4 +63,4 @@ Selected projects demonstrating analytical thinking and business impact:
 
 ## ▸ Contact
 - GitHub: https://github.com/NichakamonEk  
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/nichakamon-e-519025212/
